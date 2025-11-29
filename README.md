@@ -22,5 +22,5 @@ A modern and stylish developer-focused landing page built using **React**, **Tai
 Clone the repo:
 
 ```bash
-git clone https://github.com/Amank1412/XCODE.git
-cd XCODE
+git clone https://github.com/Amank1412/Xcode.git
+cd Xcode
